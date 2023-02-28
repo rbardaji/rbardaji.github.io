@@ -10,12 +10,14 @@
 ### <a href="https://www.egi.eu/" target="_blank">EGI</a>, In House Consultant for the InterTwin Project (External Consultor), September 2022 - August 2025
 
 - Technical Coordinator Consultant for the InterTwin Project
+
     As part of my role in technical project coordination, I work closely with the Technical Coordinator to ensure that all aspects of the project are aligned and moving forward. In addition to this, I have contributed to the design of the Blueprint Architecture for a Digital Twin Engine. This architecture is intended to simplify and accelerate the development of complex application-specific DTs, with the goal of benefiting researchers, businesses, and civil society. The Blueprint Architecture provides a reference architecture that can be used to implement Digital Twin solutions for any research collaboration.
 
 
 ### <a href="https://emso.eu/" target="_blank">EMSO ERIC</a>, Data Systems Engineer (External Consultor), July 2022 - January 2024
 
 - Data Systems Engineer
+
     I am responsible for designing, building, and maintaining complex data management systems that enable organizations to efficiently and securely process, store, and analyze large amounts of data. I ensure that the data systems meet the organization's business requirements, are reliable, scalable, and perform well, while also ensuring the accuracy, quality, and security of the data. My role requires me to have a strong understanding of database technologies, data warehousing, data modeling, data integration, and programming languages used in data processing.
     - Programming languages I used for the developments:
         - <a href="https://www.python.org/" target="_blank">Python</a>
