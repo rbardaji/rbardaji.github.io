@@ -7,14 +7,46 @@
 
 ## Work Experience
 
-### Marine Technology Unit - CSIC, Senior Data Engineer, May 2019 - July 2022
+### EMSO ERIC, Data Systems Engineer (External Consultor), July 2022 - January 2024
+
+- Data Systems Engineer
+    - Programming languages I used for the developments:
+        - <a href="https://www.python.org/" target="_blank">Python</a>
+        - HTML, CSS, JavaScript
+    - Databases (and related technologies) I used for the developments
+        - <a href="https://www.mysql.com/" target="_blank">MySQL</a> and <a href="https://www.postgresql.org/" target="_blank">Postgresql</a>
+        - <a href="https://www.elastic.co/" target="_blank">ElasticSearch and Kibana</a>
+        - <a href="https://www.mongodb.com/" target="_blank">Mongo DB</a>
+        - <a href="https://opendap.co-ops.nos.noaa.gov/erddap/index.html" target="_blank">ERRDAP</a>
+    - Tools and software used for the developments:
+        - <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://gitlab.com/" target="_blank">GitLab</a>
+        - <a href="https://httpd.apache.org/" target="_blank">Apache Server</a>
+        - <a href="https://nginx.org" target="_blank">NGINX</a>
+        - <a href="https://www.keycloak.org/" target="_blank">KeyCloak</a>
+        - <a href="https://www.postman.com/" target="_blank">Postman</a>
+        - <a href="https://www.docker.com/" target="_blank">Docker</a> and <a href="https://docs.docker.com/compose/" target="_blank">Docker Compose</a>
+
+
+### <a href="http://www.utm.csic.es/" target="_blank">Marine Technology Unit - CSIC</a>, Senior Data Engineer, May 2019 - July 2022
 
 - Tech Leader for Data Engineering
-    - Most notable archivement: As a Tech Leader for Data Engineering, my most notable achievement has been my significant contribution to the development of the data platform for EMSO ERIC (in collaboration with UTM-CSIC), from its inception through to its successful implementation, which has been a key factor in EMSO ERIC's ability to win and secure funding for multiple projects. This involved working on all aspects of the data platform, including data architecture and the API development, data pipelines, data management, and data analysis. In addition to my work on the data platform, I have also been actively involved in writing and submitting project proposals, leveraging my technical expertise to help shape proposed solutions and increase our chances of success.
-- Programming languages used for the developments:
-    - <a href="https://www.python.org/" target="_blank">Python</a>
+    - Most notable archivement: As a Tech Leader for Data Engineering, my most notable achievement has been my significant contribution to the development of the data platform for EMSO ERIC (in collaboration with Marine Technology Unit - CSIC), from its inception through to its successful implementation, which has been a key factor in EMSO ERIC's ability to win and secure funding for multiple projects. This involved working on all aspects of the data platform, including data architecture and the API development, data pipelines, data management, and data analysis. In addition to my work on the data platform, I have also been actively involved in writing and submitting project proposals, leveraging my technical expertise to help shape proposed solutions and increase our chances of success.
+    - Programming languages I used for the developments:
+        - <a href="https://www.python.org/" target="_blank">Python</a>
+        - HTML, CSS, JavaScript
+    - Databases (and related technologies) I used for the developments
+        - <a href="https://www.mysql.com/" target="_blank">MySQL</a> and <a href="https://www.postgresql.org/" target="_blank">Postgresql</a>
+        - <a href="https://www.elastic.co/" target="_blank">ElasticSearch and Kibana</a>
+        - <a href="https://opendap.co-ops.nos.noaa.gov/erddap/index.html" target="_blank">ERRDAP</a>
+    - Tools and software used for the developments:
+        - <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://gitlab.com/" target="_blank">GitLab</a>
+        - <a href="https://httpd.apache.org/" target="_blank">Apache Server</a>
+        - <a href="https://www.postman.com/" target="_blank">Postman</a>
+- Research disseminator and educator
+    - Most notable archivement: The dissemination task in the <a href="https://www.icm.csic.es/" target="_blank">Marine Science Institute - CSIC</a> helped me to develop my communication skills and refine my approach to reaching diverse audiences, which I continue to apply in my work. In this case, I have participated in various conferences to explain the technologies that we were developing in the projects I was involved in, and I have conducted demos of these technologies before different audiences.
+- Python instructor
 
-### Marine Science Institute - CSIC, Research and Development (R&D) Engineer, January 2012 - April 2019
+### <a href="https://www.icm.csic.es/" target="_blank">Marine Science Institute - CSIC</a>, Research and Development (R&D) Engineer, January 2012 - April 2019
 
 - Head of the Electronics Lab at the Department of Physical and Technological Oceanography
     - Most notable archivement: Thanks to my efficient laboratory management and rigorous equipment maintenance, the Department of Physical and Technological Oceanography has been able to carry out numerous technological developments for highly relevant oceanographic research projects.
@@ -25,17 +57,16 @@
         - <a href="https://www.raspberrypi.com/" target="_blank">Raspberry Pi</a>
         - <a href="https://fritzing.org/" target="_blank">Fritzing</a>
         - <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://gitlab.com/" target="_blank">GitLab</a>
-    - Programming languages used for the developments:
+    - Programming languages I used for the developments:
         - C
-    - Communication technologies used for the developments:
+    - Communication technologies I used for the developments:
         - LoRa, LoRaWan
         - <a href="https://www.sigfox.com/" target="_blank">SigFox</a>
         - Wifi, Bluetooth
         - <a href="https://www.iridium.com/" target="_blank">Iridium</a> and <a href="https://www.iridium.com/products/rock-seven-rockblock-plus/" target="_blank">RockBlock+</a>
-
 - Software developer
     - Most notable archivement: I have been leading the development of several software tools for operating scientific instrumentation and analyzing data, including tools for both computer devices and smartphones and tablets.
-    - Programming languages used for the developments:
+    - Programming languages I used for the developments:
         - <a href="https://www.python.org/" target="_blank">Python</a>
         - Java
         - HTML, CSS, JavaScript
