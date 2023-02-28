@@ -10,7 +10,7 @@
 ### La Salle - Ramon LLull University, Telecomunications Engineer, December 2008 - December 2012
 
 - Hardware developer
-    - Notable Archivement: As a member of a development team, we created the first operational Ionospheric Data Transmitter that transmitted scientific data from the Spanish Antarctic Base Juan Carlos I and the Ebro Observatory (Spain) over a distance of 13000 km.
+    - Notable Archivement: As a member of a development team, we created the first operational Ionospheric Data Transmitter that transmitted scientific data from the <a href="https://goo.gl/maps/YZjg64aatt1LY4Be7" target="_blank">Spanish Antarctic Base Juan Carlos I</a> and the <a href="https://goo.gl/maps/StAjEK6YRuqbgPTSA" target="_blank">Ebro Observatory (Spain)</a> over a distance of 13000 km.
     - Tools and software used for the developments:
         - <a href="https://www.altium.com/" target="_blank">Altium</a>
 - Software developer
@@ -19,6 +19,6 @@
         - C
         - C++
 - Field engineer
-    - Notable Archivement: Responsible for the installation, maintenance, and repair of the Ionospheric Transmitter and related equipment at the Spanish Antarctic Base Juan Carlos I.
+    - Notable Archivement: Responsible for the installation, maintenance, and repair of the Ionospheric Transmitter and related equipment at the <a href="https://goo.gl/maps/YZjg64aatt1LY4Be7" target="_blank">Spanish Antarctic Base Juan Carlos I</a>.
 - Matlab instructor
     - Notable Archivement: Successfully instructed an elective course in Matlab for second and third-year students in Electronic and Telecommunications Engineering at La Salle.
