@@ -7,7 +7,7 @@
 
 ## Work Experience
 
-### <a href="https://www.egi.eu/" target="_blank">EGI</a>, In House Consultant fpr the InterTwin Project (External Consultor), September 2022 - August 2025
+### <a href="https://www.egi.eu/" target="_blank">EGI</a>, In House Consultant for the InterTwin Project (External Consultor), September 2022 - August 2025
 
 - Technical Coordinator Consultant for the InterTwin Project
     As part of my role in technical project coordination, I work closely with the Technical Coordinator to ensure that all aspects of the project are aligned and moving forward. In addition to this, I have contributed to the design of the Blueprint Architecture for a Digital Twin Engine. This architecture is intended to simplify and accelerate the development of complex application-specific DTs, with the goal of benefiting researchers, businesses, and civil society. The Blueprint Architecture provides a reference architecture that can be used to implement Digital Twin solutions for any research collaboration.
