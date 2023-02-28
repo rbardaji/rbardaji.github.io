@@ -7,9 +7,16 @@
 
 ## Work Experience
 
-### EMSO ERIC, Data Systems Engineer (External Consultor), July 2022 - January 2024
+### <a href="https://www.egi.eu/" target="_blank">EGI</a>, In House Consultant fpr the InterTwin Project (External Consultor), September 2022 - August 2025
+
+- Technical Coordinator Consultant for the InterTwin Project
+    As part of my role in technical project coordination, I work closely with the Technical Coordinator to ensure that all aspects of the project are aligned and moving forward. In addition to this, I have contributed to the design of the Blueprint Architecture for a Digital Twin Engine. This architecture is intended to simplify and accelerate the development of complex application-specific DTs, with the goal of benefiting researchers, businesses, and civil society. The Blueprint Architecture provides a reference architecture that can be used to implement Digital Twin solutions for any research collaboration.
+
+
+### <a href="https://emso.eu/" target="_blank">EMSO ERIC</a>, Data Systems Engineer (External Consultor), July 2022 - January 2024
 
 - Data Systems Engineer
+    I am responsible for designing, building, and maintaining complex data management systems that enable organizations to efficiently and securely process, store, and analyze large amounts of data. I ensure that the data systems meet the organization's business requirements, are reliable, scalable, and perform well, while also ensuring the accuracy, quality, and security of the data. My role requires me to have a strong understanding of database technologies, data warehousing, data modeling, data integration, and programming languages used in data processing.
     - Programming languages I used for the developments:
         - <a href="https://www.python.org/" target="_blank">Python</a>
         - HTML, CSS, JavaScript
@@ -18,7 +25,7 @@
         - <a href="https://www.elastic.co/" target="_blank">ElasticSearch and Kibana</a>
         - <a href="https://www.mongodb.com/" target="_blank">Mongo DB</a>
         - <a href="https://opendap.co-ops.nos.noaa.gov/erddap/index.html" target="_blank">ERRDAP</a>
-    - Tools and software used for the developments:
+    - Tools and software I used for the developments:
         - <a href="https://git-scm.com/" target="_blank">Git</a>, <a href="https://github.com/" target="_blank">GitHub</a> and <a href="https://gitlab.com/" target="_blank">GitLab</a>
         - <a href="https://httpd.apache.org/" target="_blank">Apache Server</a>
         - <a href="https://nginx.org" target="_blank">NGINX</a>
@@ -30,7 +37,7 @@
 ### <a href="http://www.utm.csic.es/" target="_blank">Marine Technology Unit - CSIC</a>, Senior Data Engineer, May 2019 - July 2022
 
 - Tech Leader for Data Engineering
-    - Most notable archivement: As a Tech Leader for Data Engineering, my most notable achievement has been my significant contribution to the development of the data platform for EMSO ERIC (in collaboration with Marine Technology Unit - CSIC), from its inception through to its successful implementation, which has been a key factor in EMSO ERIC's ability to win and secure funding for multiple projects. This involved working on all aspects of the data platform, including data architecture and the API development, data pipelines, data management, and data analysis. In addition to my work on the data platform, I have also been actively involved in writing and submitting project proposals, leveraging my technical expertise to help shape proposed solutions and increase our chances of success.
+    - Most notable archivement: My significant contribution to the development of the data platform for EMSO ERIC (in collaboration with Marine Technology Unit - CSIC), from its inception through to its successful implementation, which has been a key factor in EMSO ERIC's ability to win and secure funding for multiple projects. This involved working on all aspects of the data platform, including data architecture and the API development, data pipelines, data management, and data analysis. In addition to my work on the data platform, I have also been actively involved in writing and submitting project proposals, leveraging my technical expertise to help shape proposed solutions and increase our chances of success.
     - Programming languages I used for the developments:
         - <a href="https://www.python.org/" target="_blank">Python</a>
         - HTML, CSS, JavaScript
