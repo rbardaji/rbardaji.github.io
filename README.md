@@ -39,7 +39,7 @@
 ### <a href="http://www.utm.csic.es/" target="_blank">Marine Technology Unit - CSIC</a>, Senior Data Engineer, May 2019 - July 2022
 
 - Tech Leader for Data Engineering
-    - Most notable archivement: My significant contribution to the development of the data platform for EMSO ERIC (in collaboration with Marine Technology Unit - CSIC), from its inception through to its successful implementation, which has been a key factor in EMSO ERIC's ability to win and secure funding for multiple projects. This involved working on all aspects of the data platform, including data architecture and the API development, data pipelines, data management, and data analysis. In addition to my work on the data platform, I have also been actively involved in writing and submitting project proposals, leveraging my technical expertise to help shape proposed solutions and increase our chances of success.
+    - Most notable archivement: I played a significant role in the development of the data platform for EMSO ERIC in collaboration with the Marine Technology Unit - CSIC, from its inception through to its successful implementation. This contribution was a key factor in EMSO ERIC's ability to win and secure funding for multiple projects. My work on the data platform involved all aspects, including data architecture, API development, data pipelines, data management, and data analysis. Additionally, I contributed to writing and submitting project proposals, leveraging my technical expertise to shape proposed solutions and increase our chances of success.
     - Programming languages I used for the developments:
         - <a href="https://www.python.org/" target="_blank">Python</a>
         - HTML, CSS, JavaScript
@@ -55,7 +55,12 @@
     - Most notable archivement: The dissemination task in the <a href="https://www.icm.csic.es/" target="_blank">Marine Science Institute - CSIC</a> helped me to develop my communication skills and refine my approach to reaching diverse audiences, which I continue to apply in my work. In this case, I have participated in various conferences to explain the technologies that we were developing in the projects I was involved in, and I have conducted demos of these technologies before different audiences.
 - Python instructor
 
-### <a href="https://www.icm.csic.es/" target="_blank">Marine Science Institute - CSIC</a>, Research and Development (R&D) Engineer, January 2012 - April 2019
+### <a href="https://www.fundaciocatalunya-lapedrera.com/" target="_blank">Catalunya La Pedrera Foundation</a>, Lecture from Workshop "Joves i Ciència", Juny 2017 - January 2018
+    
+- Lecture from Workshop "Joves i Ciència"
+    - Most notable archivement: During my time as a teacher in the "Joves i Ciència" educational program, by Catalunya La Pedrera Foundation, my most notable achievement was teaching a group of 14 to 17 year old students how to design and build low-cost scientific instrumentation to measure water quality and perform subsequent data analysis. This experience allowed them to acquire valuable skills in the field of engineering and science, and contributed to their academic and personal development.
+
+### <a href="https://www.icm.csic.es/" target="_blank">Marine Science Institute - CSIC</a>, Research and Development (R&D) Engineer, January 2013 - April 2019
 
 - Head of the Electronics Lab at the Department of Physical and Technological Oceanography
     - Most notable archivement: Thanks to my efficient laboratory management and rigorous equipment maintenance, the Department of Physical and Technological Oceanography has been able to carry out numerous technological developments for highly relevant oceanographic research projects.
@@ -84,7 +89,7 @@
 - Research disseminator and educator
     - Most notable archivement: My work has involved developing effective communication strategies and tools to share research information with stakeholders and the public. I have also conducted training and education sessions to ensure that diverse audiences understand the research goals and outcomes. In addition, I have coordinated with researchers to disseminate findings through publications, conferences, and other channels.
 
-### <a href="https://www.salleurl.edu/" target="_blank">La Salle - Ramon LLull University</a>, Telecomunications Engineer, December 2008 - December 2012
+### <a href="https://www.salleurl.edu/" target="_blank">La Salle - Ramon LLull University</a>, Telecomunications Engineer, December 2007 - December 2012
 
 - Hardware developer
     - Most notable archivement: As a member of a development team, we created the first operational Ionospheric Data Transmitter that transmitted scientific data from the <a href="https://goo.gl/maps/YZjg64aatt1LY4Be7" target="_blank">Spanish Antarctic Base Juan Carlos I</a> and the <a href="https://goo.gl/maps/StAjEK6YRuqbgPTSA" target="_blank">Ebro Observatory (Spain)</a> over a distance of 13000 km.
