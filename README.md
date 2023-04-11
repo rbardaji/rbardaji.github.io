@@ -104,3 +104,111 @@
     - Most notable archivement: Responsible for the installation, maintenance, and repair of the Ionospheric Transmitter and related equipment at the <a href="https://goo.gl/maps/YZjg64aatt1LY4Be7" target="_blank">Spanish Antarctic Base Juan Carlos I</a>.
 - Matlab instructor
     - Most notable archivement: Successfully instructed an elective course in Matlab for second and third-year students in Electronic and Telecommunications Engineering at La Salle.
+
+## Projects
+
+### EOSC FUTURE, Research and Development Engineer, 2022 - 2023
+
+EOSC Future is a project funded by the EU that is implementing the European Open Science Cloud (EOSC). EOSC will give European researchers access to a wide network of FAIR data and services. My participation in this project was to lead the development of a service for EOSC, which consisted of a dashboard to view and analyze global environmental indicators.
+
+#### Conferences
+
+- **Bardaji, R.**, Fornós, A., Dañobeitia, J., Vermeulen, A., Arvanitidis, C., & Rodero, I. (2022). Toward FAIR Dashboard Services. AGU Fall Meeting 2022, Chicago, 12-16 December 2022.
+
+### EMSO - Laboratorios Submarinos Profundos, Lead Data Engineer, 2019 - 2022
+
+EMSO, or European Multidisciplinary Seafloor and water-column Observatory, is a large-scale research infrastructure aimed at studying the oceans and the earth's crust from the seafloor. It consists of a network of deep-sea observatories located in different areas of the European seas, equipped with a wide range of instruments and sensors to collect data on various physical, chemical, and biological parameters. My involvement in the project has been through **leading the development of the data infrastructure** and related IT services. As a data engineer, I have been working on **building and managing the data pipeline**, **designing the database architecture**, and **developing the web-based user interface** for accessing and **visualizing the data**. In addition, I have also been working as a F**ull-Stack and DevOps** engineer to **ensure the smooth operation and maintenance** of the EMSO data infrastructure.
+
+#### Conferences
+
+- Novello, A., Lefevre, D., LoBue, N., Rodero, I., **Bardaji, R.**, Thomas, R., Sotiropoulou, M., Blandin, J., Gates, A., & Cannat, M. (2020). Towards New Online Services for the EMSO ERIC Temperature and Salinity Data. EMSO Conference – Preparing for UN Decade of Ocean Science, 12 February 2020 - 14 February 2020.
+
+- Rodero, I., Fornós, A., **Bardaji, R.**, Chiappin, S., & Dañobeitia, J. (2022). Identification and Long-lasting Citability of Dynamic Data Queries on EMSO ERIC Harmonized Data. EGU General Assembly 2022, Vienna, Austria, 23-27 May.
+
+### MONOCLE, Research and Development Engineer, 2017 - 2021
+
+#### Science Publications
+
+- Rodero, C.; Olmedo, E.; **Bardaji, R.**; Piera, J. New Radiometric Approaches to Compute Underwater Irradiances: Potential Applications for High-Resolution and Citizen Science-Based Water Quality Monitoring Programs. Sensors 2021, 21, 5537. https://doi.org/10.3390/s21165537
+
+#### Conferences
+
+- Rodero, C., **Bardaji, R**., Olmedo, E., & Piera, J. (2022). Monitoring water quality with the KduPRO, a do-it-yourself modular instrument. ECSA Conference, Berlin, Germany, 5-8 October 2022.
+
+### CITCLOPS, Research and Development Engineer, 2013 - 2016
+
+#### Science Publications
+
+- **Bardaji, R**.; Sánchez, A.-M.; Simon, C.; Wernand, M.R.; Piera, J. Estimating the Underwater Diffuse Attenuation Coefficient with a Low-Cost Instrument: The KdUINO DIY Buoy. Sensors 2016, 16, 373. https://doi.org/10.3390/s16030373
+
+- Busch, J.A.; **Bardaji, R.**; Ceccaroni, L.; Friedrichs, A.; Piera, J.; Simon, C.; Thijsse, P.; Wernand, M.; Van der Woerd, H.J.; Zielinski, O. Citizen Bio-Optical Observations from Coast- and Ocean and Their Compatibility with Ocean Colour Satellite Measurements. Remote Sens. 2016, 8, 879. https://doi.org/10.3390/rs8110879
+
+- **Bardaji R**, Best M, Piera J. (2017) Citizen Science in High-Latitude Ecosystems. Sea Technology: February 2017. doi:10.13039/501100000780
+
+- Ceccaroni L, Piera J, Wernand MR, Zielinski O, Busch JA, Der Woerd H, **Bardaji R** et al. (2020) Citclops: A next-generation sensor system for the monitoring of natural waters and a citizens' observatory for the assessment of ecosystems’ status. PLOS ONE 15(3): e0230084. https://doi.org/10.1371/journal.pone.0230084
+
+### [Phytoscope](https://digital.csic.es/handle/10261/221778?mode=full), Research and Development Engineer, 2013 - 2014
+
+Phytoscope aims to demonstrate the feasibility of obtaining high-resolution oceanographic optical data to improve understanding of phytoplankton biodiversity and dynamics. To achieve this challenge, we are exploring and optimizing different methodologies based on advanced observation technologies such as hyperspectral optical sensors and high-resolution spatiotemporal platforms.
+
+In this project, I have played an important role in developing some of the sensors used and analyzing the data collected by some of them. Additionally, I have also actively participated in data collection campaigns. My contribution has been essential to ensure the quality and accuracy of the collected data and to advance our goal of improving understanding of phytoplankton in the oceans.
+
+#### Social Media Coverage
+
+- [Phytoscope (Teaser)](https://vimeo.com/112178670)
+- [Phytoscope documentary](https://digital.csic.es/bitstream/10261/221778/3/Phytoscope_Project.mp4)
+
+#### Science Publications
+
+- Ramírez-Pérez M, Gonçalves-Araujo R, Wiegmann S, Torrecilla E, **Bardaji R**, Röttgers R, et al. (2017) Towards Cost-Effective Operational Monitoring Systems for Complex Waters: Analyzing Small-Scale Coastal Processes with Optical Transmissometry. PLoS ONE 12(1): e0170706. doi:10.1371/journal.pone.0170706
+
+### Monitoring of geomagnetic and ionospheric variability on Livingston Island. Advanced techniques for their characterization and transmission of their data in HF, Telecomunications Engineer, 2007 - 2012
+
+This project aimed to establish a communication channel between Antarctica and Spain using High Frequency (HF) ionospheric communication systems, in order to transmit scientific data and reduce the cost of satellite communication. As a member of the project's development team, I was **one of the hardware system designers** and the **main software developer**. Furthermore, I was responsible for installing the system and conducting test measurements at the Spanish Antarctic base during three different campaigns spanning three years.
+
+#### Social Media Coverage
+
+- [Campus La Salle investiga la comunicación ionosférica (TVE)](https://www.youtube.com/watch?v=lXQbqNO6LzA&t=57s)
+
+#### Science Publications
+
+- Ads, A. & Bergada, Pau & Vilella, Carles & Regue, Joan Ramon & Pijoan, Joan & **Bardaji, Raul** & Mauricio, Joan. (2013). A comprehensive sounding of the ionospheric HF radio link from Antarctica to Spain. Radio Science. 48. 1-12. 10.1029/2012RS005074.
+
+
+## Other divulgation activities
+
+- <a href="https://www.icm.csic.es/" target="_blank">ICM - CSIC</a>, Guide for an open house event, 2013
+- <a href="https://www.icm.csic.es/" target="_blank">ICM - CSIC</a>, Guide for an open house event, 2014
+- <a href="https://www.icm.csic.es/" target="_blank">ICM - CSIC</a>, Guide for an open house event, 2016
+
+## Education
+
+### University degrees
+
+- <a href="https://www.salleurl.edu/" target="_blank">La Salle - Ramon LLull University</a>, Telecommunications Technical Engineer - specializing in Telematics, 2010
+- <a href="https://www.salleurl.edu/" target="_blank">La Salle - Ramon LLull University</a>, Telecommunications Engineer, 2012
+- <a href="https://www.salleurl.edu/" target="_blank">La Salle - Ramon LLull University</a>, Master's degree in Network and Telecommunications Engineering, 2015
+
+### Other degrees and courses
+
+- <a href="https://www.salleurl.edu/" target="_blank">OFIMEGA Acadenmias SL</a>, Windows - Word - Excel - Access - Programming with Delphi, 2002
+- <a href="https://www.selectenglish.co.uk/" target="_blank">Select English</a>, Intensive English Languaje Course - Level: Intermediate, 2003
+- <a href="https://www.ap.be/" target="_blank">Artesis Plantijn Hogeschool Antwerpen</a>, Positioning Systems by Radio Communication, 2009
+- <a href="https://www.aragon.es/-/servicio-aragones-de-salud-14" target="_blank">Aragonese Health Service</a>, First aid, 2011
+- <a href="https://www.salleurl.edu/" target="_blank">La Salle - Ramon LLull University</a>, Cisco CCNA Exploration, 2012
+- <a href="https://www.aragon.es/-/servicio-aragones-de-salud-14" target="_blank">Aragonese Health Service</a>, Basic life support and AED handling, 2012
+- <a href="https://web.gencat.cat/" target="_blank">Generalitat de Catalunya</a>, Recreational motor and sailing boat skipper, 2013
+- <a href="https://www.fremap.es/Paginas/Inicio.aspx" target="_blank">FREMAP</a>, First aid, 2013
+- Formacion Digital SL, Android application development, 2014
+- <a href="https://web.gencat.cat/" target="_blank">Generalitat de Catalunya</a>, Yacht skipper, 2015
+- <a href="https://www.uabc.mx/" target="_blank">Universidad Autónoma de Baja California</a>, Phytoplankton bio-optical variability: application to the study of coastal systems, 2015
+- <a href="https://www.coursera.org/learn/python" target="_blank">Coursera - University of Michigan</a>, Programming for Everybody (Getting Started with Python), 2016
+- <a href="https://www.coursera.org/learn/python" target="_blank">Coursera - University of Michigan</a>, Python Data Structures, 2016
+- <a href="https://www.coursera.org/learn/python" target="_blank">Coursera - University of Michigan</a>, Using Databases with Python, 2016
+- <a href="https://www.coursera.org/learn/python" target="_blank">Coursera - University of Michigan</a>, Using Python to Access Web Data, 2016
+- <a href="https://www.coursera.org/learn/raspberry-pi-platform" target="_blank">Coursera - University of California, Irvine</a>, The Raspberry Pi Platform and Python Programming for the Raspberry Pi, 2016
+- <a href="https://www.csic.es/" target="_blank">CSIC</a>, Python for Scientists, 2016
+- <a href="https://www.csic.es/" target="_blank">CSIC</a>, Scientific Writing, 2016
+- <a href="https://learn.mongodb.com/" target="_blank">MongoDB University</a>, MongoDB Basics, 2018
+- <a href="https://www.csic.es/" target="_blank">CSIC</a>, Basic training for field trips, 2019
+- <a href="https://www.pvcat.com/"  target="_blank">SPA Previcat</a>, Basic level Occupational Resource Prevention, 2020
